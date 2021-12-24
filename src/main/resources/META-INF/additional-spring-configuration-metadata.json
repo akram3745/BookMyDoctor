@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "swagger.title",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.title'"
+  },
+  {
+    "name": "swagger.project.version",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.project.version'"
+  },
+  {
+    "name": "access.token",
+    "type": "java.lang.String",
+    "description": "A description for 'access.token'"
+  },
+  {
+    "name": "refresh.token",
+    "type": "java.lang.String",
+    "description": "A description for 'refresh.token'"
+  },
+  {
+    "name": "swagger.api.license",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.api.license'"
+  },
+  {
+    "name": "swagger.api.licenseurl",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.api.licenseurl'"
+  },
+  {
+    "name": "swagger.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.contact.email'"
+  },
+  {
+    "name": "swagger.contact.website",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.contact.website'"
+  },
+  {
+    "name": "swagger.contact.username",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.contact.username'"
+  },
+  {
+    "name": "swagger.description",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.description'"
+  },
+  {
+    "name": "swagger.termsofservice",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.termsofservice'"
+  },
+  {
+    "name": "mailp",
+    "type": "java.lang.String",
+    "description": "A description for 'mailp'"
+  },
+  {
+    "name": "mail.email",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.email'"
+  },
+  {
+    "name": "mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.password'"
+  }
+]}
