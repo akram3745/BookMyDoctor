@@ -24,5 +24,10 @@ microservice:
     user-service:
      endpoints:
        endpoint:
-         uri: http://USER-SERVICE/api/v1/user       
+         uri: http://USER-SERVICE/api/v1/user 
+    inventory-service:
+     endpoints:
+       endpoint:
+         uri: http://INVENTORY-SERVICE/api/v1/product        
+         
          
